@@ -18,6 +18,9 @@ The XP Rankup feature is temporarily disabled due to issues with a dependency.
 License: https://github.com/yogurtsyum/qbot/blob/master/LICENSE  
 Contributors: https://github.com/yogurtsyum/qbot/graphs/contributors   
 
+[<img  data-src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://deploy.stdlib.com/)
+
+
 Please note we are not responsible for if anything happens to your bot account. It is your responsibility to keep the cookie and token away from anyone you don't trust. qbot uses noblox.js to interact with Roblox API with your bot cookie, and discord.js to interact with the Discord API with your bot token. Do not share your config.json file with anyone once filled out.
 
 Please also note that Discord has a TOS for its API: https://discord.com/developers/docs/legal
